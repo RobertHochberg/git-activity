@@ -279,3 +279,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: nakazawam@berea.edu
 	* GitHub: mario-nakazawa
 	* IRC: nakazawa
+
+* Robert Hochberg, University of Dallas
+	* Email: hochberg@udallas.edu
+	* GitHub: RobertHochberg
+	* IRC: hochberg
